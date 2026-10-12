@@ -1,6 +1,5 @@
 Mamaearth Returns & Growth Intelligence Pipeline
-Capstone Project — Data Analytics with AI & GenAI Program: E&ICT Academy, IIT Roorkee 
-Developer: Naman Jain
+
 A complete, reproducible data-analytics capstone that follows a clear workflow:
 SQL → Data → Analysis (clean & EDA) → Visualizations → Narrator
 It combines SQL financial reporting, Python/pandas cleaning & EDA, statistical hypothesis testing, visualization, and a GenAI-powered business narrative (with offline fallback).
