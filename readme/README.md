@@ -1,19 +1,13 @@
 # Mamaearth Returns & Growth Intelligence Pipeline
 
-A complete, reproducible data-analytics capstone that follows a clear chronological workflow:
+A complete, reproducible data-analytics capstone that follows a clear workflow:
 
 **SQL → Data → Analysis (clean & EDA) → Visualizations → Narrator**
 
 It combines SQL financial reporting, Python/pandas cleaning & EDA, statistical hypothesis testing, visualization, and a GenAI-powered business narrative (with offline fallback).
 
-> **Disclaimer**  
-> This project analyses a supplied synthetic order-level dataset for educational and portfolio purposes. It is **not** affiliated with Mamaearth, nor does it represent Mamaearth’s audited corporate financial statements.
+## Repository Structure 
 
----
-
-## Repository Structure (chronological)
-
-```
 mamaearth-repo/
 ├── README.md
 ├── requirements.txt
@@ -230,8 +224,12 @@ Full numbers live in `narrator/findings.json` and the SQL report files.
 - Possible extensions: customer LTV, time-to-return survival analysis, COD pre-authorisation A/B simulation.
 
 ---
+**Disclaimer**  
+> This project analyses a supplied synthetic order-level dataset for educational and portfolio purposes. It is **not** affiliated with Mamaearth, nor does it represent Mamaearth’s audited corporate financial statements.
 
-## License
-
-MIT License – free for educational and portfolio use.  
+## License – free for educational and portfolio use.  
 Data: supplied CSV files for the capstone exercise; no external proprietary data is redistributed.
+Developer : Naman jain
+Program: Data Analytics with AI & GenAI Institution: E&ICT Academy, IIT Roorkee
+
+
