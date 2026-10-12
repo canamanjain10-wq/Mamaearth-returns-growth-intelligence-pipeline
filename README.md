@@ -3,9 +3,6 @@ Capstone Project — Data Analytics with AI & GenAI Program: E&ICT Academy, IIT 
 A complete, reproducible data-analytics capstone that follows a clear workflow:
 SQL → Data → Analysis (clean & EDA) → Visualizations → Narrator
 It combines SQL financial reporting, Python/pandas cleaning & EDA, statistical hypothesis testing, visualization, and a GenAI-powered business narrative (with offline fallback).
-> **Disclaimer**  
-> This project analyses a supplied synthetic order-level dataset for educational and portfolio purposes. It is **not** affiliated with Mamaearth, nor does it represent Mamaearth’s audited corporate financial statements.
----
 Repository Structure 
 ```
 mamaearth-repo/
@@ -161,7 +158,8 @@ No return-reason or product-quality signals.
 Modest sample sizes in some segments.
 Possible extensions: customer LTV, time-to-return survival analysis, COD pre-authorisation A/B simulation.
 ---
-License
+**Disclaimer**  
+This project analyses a supplied synthetic order-level dataset for educational and portfolio purposes. It is **not** affiliated with Mamaearth, nor does it represent Mamaearth’s audited corporate financial statements.
 MIT License – free for educational and portfolio use.  
 Data: supplied CSV files for the capstone exercise; no external proprietary data is redistributed.
 Developer: Naman Jain
