@@ -1,2 +1,0 @@
-total_orders | gross_revenue | discounted_revenue | avg_order_value
-180 | 116840.0 | 99860.2 | 554.78
