@@ -1,3 +1,0 @@
-loyalty_tier | cnt
-Gold | 28
-Silver | 17

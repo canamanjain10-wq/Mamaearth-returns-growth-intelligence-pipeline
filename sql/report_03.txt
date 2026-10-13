@@ -1,2 +1,0 @@
-total_orders | orders_with_rating
-180 | 165

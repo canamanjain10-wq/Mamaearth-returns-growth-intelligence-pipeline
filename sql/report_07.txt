@@ -1,6 +1,0 @@
-customer_id | name | total_spend
-C043 | Reyansh | 12920.0
-C026 | Isha | 8371.6
-C008 | Meera | 4564.6
-C011 | Arjun | 4111.0
-C042 | Sanya | 3785.0

@@ -1,5 +1,0 @@
-category | order_count | revenue
-Haircare | 54 | 44956.1
-Skincare | 60 | 27346.0
-Babycare | 30 | 16805.0
-PersonalCare | 36 | 10753.1
