@@ -1,0 +1,11 @@
+customer_id | name | city
+C001 | Aarav | Mumbai
+C003 | Aditi | Mumbai
+C031 | Aditya | Jaipur
+C036 | Aisha | Delhi
+C004 | Ananya | Lucknow
+C030 | Anika | Bangalore
+C044 | Aria | Bangalore
+C011 | Arjun | Bangalore
+C021 | Aryan | Bangalore
+C041 | Ayaan | Lucknow

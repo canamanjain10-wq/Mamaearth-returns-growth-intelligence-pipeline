@@ -1,0 +1,2 @@
+customer_id | name
+C045 | Vihaan
